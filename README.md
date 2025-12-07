@@ -6,9 +6,9 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of System Engineering](https://www.ulima.edu.pe/pregrado/ingenieria-de-sistemas) at [Universidad de Lima](https://www.ulima.edu.pe/).
+- :school: I am in the `7th semester` of the [Faculty of System Engineering](https://www.ulima.edu.pe/pregrado/ingenieria-de-sistemas) at [Universidad de Lima](https://www.ulima.edu.pe/).
 - :technologist: I love using Information Technology (IT) as a solution for every `Problem`.
-- :student: I’m currently learning `System Engineering`.
+- :student: I’m currently studying the career of `System Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/alexander-jesus-laura-julca-77a910264/).
 <br><br>
