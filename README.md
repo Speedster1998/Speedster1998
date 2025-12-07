@@ -24,10 +24,10 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexander-jesus-laura-julca-77a910264/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="45" width="45" /></a>
-  <a href="https://wa.me/051914762998" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN=w480-h960-rw" alt="whatsapp" style="border-radius: 25%; object-fit: cover;" height="45" width="45"/></a>
-  <a href="mailto:alexanderlaurajulca@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="gmail" height="45" width="45" /></a> 
-  <a href="https://www.instagram.com/alexander.laurajulca/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="45" width="45" /></a> 
+  <a href="https://www.linkedin.com/in/alexander-jesus-laura-julca-77a910264/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://wa.me/051914762998" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN=w480-h960-rw" alt="whatsapp" style="border-radius: 25%; object-fit: cover;" height="50" width="50"/></a>
+  <a href="mailto:alexanderlaurajulca@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="gmail" height="50" width="50" /></a> 
+  <a href="https://www.instagram.com/alexander.laurajulca/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a> 
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
