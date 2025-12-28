@@ -6,9 +6,9 @@
 
 <br><br>
 
-- :school: I am in the `7th semester` of the [Faculty of System Engineering](https://www.ulima.edu.pe/pregrado/ingenieria-de-sistemas) at [Universidad de Lima](https://www.ulima.edu.pe/).
-- :technologist: I love using Information Technology (IT) to solve `real-world problem`.
-- :student: I'm currently focused on developing my knowledge in the `IT area`, specializing in Cloud Computing, IT Architecture and Network Infrastructure.
+- :school: `7th semester` [System Engineering](https://www.ulima.edu.pe/pregrado/ingenieria-de-sistemas) student at [Universidad de Lima](https://www.ulima.edu.pe/).
+- :technologist: I love using Information Technology (IT) to solve `real-world problems`.
+- :student: Currently specializing in `IT`, with solid knowledge in Cloud Computing, IT Architecture, Network Infrastructure and DevOps practices.
 - :nerd_face: Always learning more about `Linux`, and exploring new technologies in the world of `smartphones and computers`.
 - :thinking: Currently open to new `job opportunities` - you can check [MY RESUME](https://www.linkedin.com/in/alexander-jesus-laura-julca-77a910264/) below.
 <br>
