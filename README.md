@@ -18,7 +18,7 @@
 ## 👨🏻‍💻 Technologies That I Know
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,ubuntu,redhat,html,css,js,react,vite,nodejs,java,py,r,latex,terraform,vscode,postman,vercel,anaconda,visualstudio&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,linux,ubuntu,redhat,html,css,js,react,vite,nodejs,figma,vercel,java,py,sklearn,cpp,r,terraform,latex,vscode,anaconda,github,postman,postgres,sqlite,visualstudio&perline=14" />
   </a>
 </p>
 
