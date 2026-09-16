@@ -6,7 +6,7 @@
 
 <br><br>
 
-- :school: `8th semester` [System Engineering](https://www.ulima.edu.pe/pregrado/ingenieria-de-sistemas) student at [Universidad de Lima](https://www.ulima.edu.pe/).
+- :school: `9th semester` [System Engineering](https://www.ulima.edu.pe/pregrado/ingenieria-de-sistemas) student at [Universidad de Lima](https://www.ulima.edu.pe/).
 - :computer: I love using Information Technology (IT) to solve `real-world problems`.
 - :student: Currently specializing in `IT`, with solid knowledge in Cloud Computing, IT Architecture, Network Infrastructure and DevOps practices.
 - :nerd_face: Always learning more about `Linux`, and exploring new technologies in the world of `smartphones and computers`.
